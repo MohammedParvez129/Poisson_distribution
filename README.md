@@ -74,6 +74,7 @@ else:
 
 # Output : 
 
+![Screenshot 2024-10-05 083139](https://github.com/user-attachments/assets/c5806a1f-622c-4958-b7d0-796eabf6deef)
 
 
 # Results
